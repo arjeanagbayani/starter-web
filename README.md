@@ -21,3 +21,5 @@ As stated above, the main purpose it to provide simple example
 ## How to Contribute
 
 ## Deployment
+
+This is a simple web project, deployment can be on any web server on even local file system
